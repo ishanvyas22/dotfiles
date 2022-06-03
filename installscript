@@ -122,9 +122,12 @@ echo '++++++++++++++++++++++++++++++'
 echo 'All done!'
 
 echo '++++++++++++++++++++++++++++++'
-echo 'Some optional tidbits'
+echo 'Configure MySQL:'
+echo 'Run `mysql_secure_installation` command to secure the installation'
 
-echo '1. Make a .dotfiles-custom/shell/.aliases for your personal commands'
+echo '++++++++++++++++++++++++++++++'
+echo 'Some optional tidbits:'
+echo 'Make a .dotfiles-custom/shell/.aliases for your personal commands'
 
 echo '++++++++++++++++++++++++++++++'
 echo '++++++++++++++++++++++++++++++'
