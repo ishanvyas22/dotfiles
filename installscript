@@ -117,6 +117,14 @@ echo 'Install rectangle'
 echo '-----------------'
 brew install --cask rectangle
 
+echo 'Install raycast'
+echo '---------------'
+brew install --cask raycast
+
+echo 'Install tableplus'
+echo '-----------------'
+brew install --cask tableplus
+
 echo '++++++++++++++++++++++++++++++'
 echo '++++++++++++++++++++++++++++++'
 echo 'All done!'
